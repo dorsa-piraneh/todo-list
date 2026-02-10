@@ -6,7 +6,7 @@ A simple and modern **Todo List** application that helps users organize daily ta
 ## Live Demo
 
 🔗 **View Online:**  
-https://dorsa-piraneh.github.io/TodoList/
+https://dorsa-piraneh.github.io/todo-list/
 
 ## Screenshots
 
@@ -37,7 +37,7 @@ https://dorsa-piraneh.github.io/TodoList/
 
 ### Option 2: Clone with Git
 ```bash
-git clone https://github.com/dorsa-piraneh/TodoList.git
+git clone https://github.com/dorsa-piraneh/todo-list.git
 ```
 Then open `index.html` in your browser.
 
@@ -90,3 +90,4 @@ TodoList/
 
 **Dorsa Piraneh**  
 GitHub: https://github.com/dorsa-piraneh
+
